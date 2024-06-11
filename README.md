@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sinha</h1>
 
 # 💫About Me:
-👨‍💻 Final year B.Tech student at Kalinga Institute of Industrial Technology, specializing in Computer Science and Engineering.<br>🌐 Full Stack Developer with expertise in MERN stack and Next.js.<br>📊 Proficient in both SQL and NoSQL databases.<br>🛡️ Experienced in cybersecurity.<br>📈 Basic knowledge of data analytics and machine learning.<br>🚀 Currently learning DevOps and Django framework.<br>🔍 Strong in Data Structures and Algorithms (DSA) and competitive programming, currently in the top 5% globally on LeetCode.
+👨‍💻 Final year B.Tech student at Kalinga Institute of Industrial Technology, specializing in Computer Science and Engineering.<br>🌐 Full Stack Developer with expertise in MERN stack, Next.js, and databases (SQL and NoSQL)..<br>🛡️ Experienced in cybersecurity.<br>📈 Basic knowledge of data analytics and machine learning.<br>🚀 Currently learning DevOps and Django framework.<br>🔍 Strong in Data Structures and Algorithms (DSA) and competitive programming, currently in the top 5% globally on LeetCode.
 
 
 ## 🌐 Socials:
